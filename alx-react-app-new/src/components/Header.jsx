@@ -1,6 +1,6 @@
 function Header(){
   return(
-    <header style={{backgroundColor: "blue", color: "white", borderRadius: "4px"}}>
+    <header style={{backgroundColor: "blue", color: "white", borderRadius: "4px", textAlign: "center"}}>
       <h1>My Favorite Cities</h1>
     </header>
   )
